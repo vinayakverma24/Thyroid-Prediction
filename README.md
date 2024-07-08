@@ -2,6 +2,12 @@
 
 This project focuses on predicting thyroid disease using machine learning techniques, specifically using a Random Forest classifier. The dataset used for training and evaluation contains various features related to thyroid health and patient information.
 
+
+## Demo
+[streamlit-app-2024-07-09-00-07-78.webm](https://github.com/vinayakverma24/Thyroid-Prediction/assets/164455230/42ef4955-4dad-4c27-90c8-90290492ee21)
+
+
+
 ## Installation
 
 1. **Clone the repository:**
